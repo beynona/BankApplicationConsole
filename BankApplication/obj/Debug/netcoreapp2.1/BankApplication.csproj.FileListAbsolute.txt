@@ -1,0 +1,14 @@
+P:\Projects\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.deps.json
+P:\Projects\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.runtimeconfig.json
+P:\Projects\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.runtimeconfig.dev.json
+P:\Projects\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.dll
+P:\Projects\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankApplication.pdb
+P:\Projects\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.csprojAssemblyReference.cache
+P:\Projects\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.csproj.CoreCompileInputs.cache
+P:\Projects\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.AssemblyInfoInputs.cache
+P:\Projects\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.AssemblyInfo.cs
+P:\Projects\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.dll
+P:\Projects\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.pdb
+P:\Projects\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankLibrary.dll
+P:\Projects\BankApplication\BankApplication\bin\Debug\netcoreapp2.1\BankLibrary.pdb
+P:\Projects\BankApplication\BankApplication\obj\Debug\netcoreapp2.1\BankApplication.csproj.CopyComplete
